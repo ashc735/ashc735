@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashley.</h1>
 <h3 align="center">A passionate front end developer from Tennessee.</h3>
 
-- 🌱 I’m currently learning **full stack JavaScript through Project Odin.**
+- 🌱 I’m currently learning **full stack JavaScript through Project Odin & WordPress through Skillcrush.**
 
 - 👨‍💻 All of my projects are available at [https://ashc735.github.io/ashley-campbell-portfolio/](https://ashc735.github.io/ashley-campbell-portfolio/)
 
